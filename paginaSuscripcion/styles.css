@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Prelo';
+    src: url('assets/Prelo-Mediumeot.jpg');
+    src: local('Prelo-Medium'),
+        url('assets/Prelo-Mediumeot.jpg?#iefix') format('embedded-opentype'),
+        url('assets/Prelo-Mediumwoff2.jpg') format('woff2'),
+        url('assets/Prelo-Mediumwoff.jpg') format('woff'),
+        url('assets/Prelo-Mediumttf.jpg') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}

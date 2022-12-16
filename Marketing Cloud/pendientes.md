@@ -1,0 +1,11 @@
+- Aumento de cupo ✔
+- contingencia ✔
+- Tc adicional Maquetación ✔
+- efex sep 2022 ✔
+- efex nov ✔
+- Habitos y consumos ✔
+- Tc joven maquetacion - revisar para no duplicar
+- Confirmacion de tc adicional ✔
+- Tc nueva temporalidades ✔
+- Tc temporalidades maquetacion ✔
+- 
